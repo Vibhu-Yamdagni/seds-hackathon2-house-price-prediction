@@ -1,0 +1,6 @@
+findspark
+pyspark
+flasgger
+flask
+pandas
+numpy

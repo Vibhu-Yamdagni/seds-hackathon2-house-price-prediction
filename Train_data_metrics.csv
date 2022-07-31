@@ -1,0 +1,10 @@
+Training Dataset Metrics 
+Linear Regression - RMSE:  847888323.1715356
+Linear Regression - MAE:  21392.145999596385
+Linear Regression - R-squared:  0.8650209198883039
+Random Forest Regression - RMSE: 26300.7081722149
+Random Forest Regression - MAE: 18274.215618795417
+Random Forest Regression - R-squared: 0.889880889510849
+Gradient Boost Regression - RMSE: 41218.425545674414
+Gradient Boost Regression - MAE: 24201.169699589125
+Gradient Boost Regression - R-squared: 0.7295352898355123
